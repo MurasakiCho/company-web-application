@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adbea068-f4d0-4f5e-8db3-24867f4f71ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/controllers/AnnouncementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/controllers/AnnouncementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/controllers/CompanyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/controllers/CompanyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/mappers/AnnouncementMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/mappers/AnnouncementMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/mappers/TeamMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/mappers/TeamMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/AnnouncementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/AnnouncementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/CompanyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/CompanyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/impl/AnnouncementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/impl/AnnouncementServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/impl/CompanyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/cooksys/groupfinal/services/impl/CompanyServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="backend-cf-projects" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mU7Tk90owY56SzQz1sh2Rjj2b0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GroupFinalApplication.executor": "Run",
+    "Maven.group-final [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "backend-jl",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GroupFinalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cooksys.groupfinal.GroupFinalApplication" />
+      <module name="group-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cooksys.groupfinal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupFinalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbea068-f4d0-4f5e-8db3-24867f4f71ff" name="Changes" comment="" />
+      <created>1727119310201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727119310201</updated>
+    </task>
+    <servers />
+  </component>
+</project>
